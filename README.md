@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuNianTongXue
 - 👀 I’m interested in 🎹 
-- 🌱 I’m currently learning Flink Hadoop 机器学习 大数据 信息安全
+- 🌱 I’m currently learning Flink Hadoop  人工智能 Web3 信息安全
 - 💞️ I’m looking to collaborate on 内心强大的人
 - 📫 How to reach me qq196245987@gmail.com
 <!---
